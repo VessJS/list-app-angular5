@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "cycling-station"
+    "name": "angular5-list-app"
   },
   "apps": [
     {
